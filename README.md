@@ -5,3 +5,5 @@ All Easy Questions of Leetcode
 2. Longest Strictly Increasing or Strictly decreasing Subarray
 
 3. Maximum Ascending Subarray Sum
+
+4. Check If One String Swap Can Make Strings Equal
