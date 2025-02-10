@@ -7,3 +7,5 @@ All Easy Questions of Leetcode
 3. Maximum Ascending Subarray Sum
 
 4. Check If One String Swap Can Make Strings Equal
+
+5. Clear Digits
